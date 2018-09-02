@@ -68,6 +68,9 @@ kramdown:
 #  - _redirects
 #  - _headers
 
+future: true
+
+timezone: Europe/Madrid
 # Exclude from processing.
 # The following items will not be processed.
 exclude:
