@@ -27,7 +27,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Texto", name: "body", widget: "markdown", required: false}
       - {label: "Categorias", name: "categories", widget: "string", required: false}
-       - {label: "Imagen", name: "thumbnail", widget: "image", required: false}
+      - {label: "Imagen", name: "thumbnail", widget: "image", required: false}
     # PAGES
   - name: "page"
     label: "Page"
